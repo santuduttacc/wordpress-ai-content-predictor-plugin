@@ -9,7 +9,7 @@ phpMyAdmin :
 http://wordpress661.local:8041
 
 
-======================== Upload the whole project with docker environment in git ==============
+## Upload the whole project with docker environment in git
 Step 1 : 
 git init
 git add .
